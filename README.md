@@ -5,6 +5,7 @@ Baixe o AWS CLI para seu SO de escolha.
 
 ## APÓS BAIXAR E EXECUTAR O AWS CLI
 Abra o Prompt de comando e digite: aws configure
+
 Depois que digitar vai aparecer para inserir sua chave de acesso e a chave secreta
 
 ![Configure](https://github.com/AlbertoFerreiraMaiaNeto/Gerenciador_de_Herois_da_Marvel_API_SpringBoot/blob/master/ImagensReadme/aws%20configure.png)
